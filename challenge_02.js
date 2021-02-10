@@ -53,3 +53,22 @@ switch (true) {
         console.log("please repeat!")
         break;
 }
+
+
+/*
+let vorname, alter;
+vorname = prompt("Bitte name eingeben");
+alter = parseInt(prompt("Bitte alter eingeben"));
+
+console.log(vorname, alter);
+
+if (alter <= 5) {
+   console.log("Hallo " + norname + ", willst du Milch?"); 
+} else if (alter <= 12) {
+    console.log("Hallo " + vorname + ", willst du Saft oder Milch?");
+} else if (alter <= 17) {
+    console.log("Hallo " + vorname + ", willst du Cola, Saft oder Milch?");
+} else {
+    console.log("Hallo " + vorname + ", willst du Bier, Cola, Saft oder Milch?");
+}
+*/
